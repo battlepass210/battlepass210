@@ -1,5 +1,5 @@
 <h1 align="center">Yo, I'm battlepass210</h1>
-<h3 align="center">A passionate dev from Malaysia, and currently into Web3 & NFTs</h3>
+<h3 align="center">Currently into Web3 & NFTs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=battlepass210&label=Profile%20views&color=0e75b6&style=flat" alt="battlepass210" /> </p>
 
